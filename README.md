@@ -13,3 +13,8 @@ O usuário pode:
 ### 🚀 Tecnologias utilizadas:
 ✅ **Java** ☕  
 ✅ **MySQL** 🐬 
+
+### Algumas imagens do projeto:
+<img src="https://github.com/user-attachments/assets/ae65c9f7-8aa3-43bb-9f32-e3e0850eeea1"/>
+<img src="https://github.com/user-attachments/assets/20cee71b-01bb-4e61-a75e-5e597a395547"/>
+<img src="https://github.com/user-attachments/assets/33c40ac5-b426-4c26-85af-3825ccc25a42"/>
