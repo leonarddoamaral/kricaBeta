@@ -1,6 +1,7 @@
 # KricaBeta
 ![GitHub top language](https://img.shields.io/github/languages/top/leonarddoamaral/kricaBeta)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leonarddoamaral/kricaBeta)
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ## 🏖️ Projeto de Férias  
 
@@ -11,10 +12,6 @@ O usuário pode:
 - Editar informações  
 - Apagar registros de vendas, linhas e usuários
 - Ter acesso a tabelas com registros de vendas e linhas  
-
-### 🚀 Tecnologias utilizadas:
-✅ **Java** ☕  
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### Algumas imagens do projeto:
 <img src="https://github.com/user-attachments/assets/ae65c9f7-8aa3-43bb-9f32-e3e0850eeea1"/>
