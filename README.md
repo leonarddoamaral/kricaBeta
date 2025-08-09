@@ -13,6 +13,7 @@ O usuário pode:
 ### 🚀 Tecnologias utilizadas:
 ✅ **Java** ☕  
 ✅ **MySQL** 🐬 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### Algumas imagens do projeto:
 <img src="https://github.com/user-attachments/assets/ae65c9f7-8aa3-43bb-9f32-e3e0850eeea1"/>
