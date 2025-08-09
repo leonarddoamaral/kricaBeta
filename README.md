@@ -1,5 +1,7 @@
 # KricaBeta
 ![GitHub top language](https://img.shields.io/github/languages/top/leonarddoamaral/kricaBeta)
+![GitHub repo size](https://img.shields.io/github/repo-size/leonarddoamaral/kricaBeta)
+
 ## 🏖️ Projeto de Férias  
 
 Trata-se de uma aplicação com o objetivo de **cadastrar vendas e linhas em estoque**, permitindo um controle eficiente sobre as vendas e linhas disponíveis.  
