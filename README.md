@@ -1,4 +1,5 @@
 <h1 align='Center'>KricaBeta</h1>
+
 ![GitHub top language](https://img.shields.io/github/languages/top/leonarddoamaral/kricaBeta)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leonarddoamaral/kricaBeta)
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
