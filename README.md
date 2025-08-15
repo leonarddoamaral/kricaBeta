@@ -4,7 +4,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/leonarddoamaral/kricaBeta)
 ![Last Commit](https://img.shields.io/github/last-commit/leonarddoamaral/kricaBeta)
 ![Platform](https://img.shields.io/badge/platform-desktop-lightgrey)
-![Repo Size](https://img.shields.io/github/repo-size/leonarddoamaral/kricaBeta)
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
